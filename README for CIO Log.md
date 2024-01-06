@@ -13,3 +13,5 @@ CIO Log Formulas:
 There are several other basic formulas in use, as well as many common functions.
 
 It has 4 visible tabs and 3 hidden ones. The Daily CIO tab, which is the primary interface. The CIO Unit, which is a pilot program for the CIO Desk tbd. WMS Attendance functions as the backend. Analytics is a visualization tab that provides metrics for each individual day within the office. The 3 hidden tabs are: a blank sheet containing VBA Macro code for automatic rotation (used previously, available for further implementation), a How-To Guide (since re-implemented), and a backend of calculated data tables.
+
+CIO Log is sorted & filtered with 10 different filters.
