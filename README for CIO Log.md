@@ -1,5 +1,6 @@
 # Excel-Expertise
-Automatic Rotation; Client-to-Employee Tracking; Daily Analytics
+Front-end user interface combined with a [non-dynamic] backend that allow for tracking. Analytics tab built-in in order to report daily metrics.
+(((Automatic Rotation; Client-to-Employee Tracking; Daily Analytics)))
 
 CIO Log Formulas:
 =VLOOKUP(A2, 'WMS Attendance'!B:G, 2, FALSE)
