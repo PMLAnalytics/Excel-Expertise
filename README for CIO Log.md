@@ -2,10 +2,15 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## Description
 Front-end user interface combined with a [dynamic] backend that allows for tracking. Analytics tab built-in in order to report daily metrics.
-CIO Log is sorted & filtered with 10 different filters and contains over a dozen conditional formatting rules.
+CIO Log is sorted & filtered with 10 different filters and contains over a dozen conditional formatting rules. The data faces extraction, transformation, and loading from when the source is delivered to when the data warehouse can be interacted upon.
  - Automatic Rotation
  - Client-to-Employee Tracking
  - Daily Analytics
+
+### Data Pipeline
+- Backend: Workload Management System (Javascript)
+- Staging Area: Formulas, Conditional Formatting Rules, Custom Sorting
+- Fortend: Tracking interface
 
 ### CIO Log Formulas:
 - =VLOOKUP(A2, 'WMS Attendance'!B:G, 2, FALSE)
