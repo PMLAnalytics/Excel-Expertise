@@ -10,7 +10,7 @@ CIO Log is sorted & filtered with 10 different filters and contains over a dozen
 ### Data Pipeline
 - Backend: Workload Management System (Javascript)
 - Staging Area: Formulas, Conditional Formatting Rules, Custom Sorting
-- Fortend: Tracking interface
+- Frontend: Tracking interface
 
 ### CIO Log Formulas:
 - =VLOOKUP(A2, 'WMS Attendance'!B:G, 2, FALSE)
